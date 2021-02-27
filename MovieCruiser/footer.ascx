@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="footer.ascx.cs" Inherits="MovieCruiser.footer" %>
+<footer style="background-color: #808080; padding: 20px; height: 20px; margin-top: 100px; font-size: 20px">Copyright &copy; 2019</footer>
